@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"87a3feb1-cd56-461f-816e-acfc8d6faef6",
+	"author":	"Jerome Briot",
+	"description":	{
+		"":	"Display information dialog at startup if Fusion 360 has been updated."
+	},
+	"version":	"0.1.0",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
